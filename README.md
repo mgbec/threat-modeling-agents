@@ -1,2 +1,2 @@
 # threat-modeling-agents
-created by Google Gemini CLI
+created with Google Gemini CLI
